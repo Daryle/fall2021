@@ -76,8 +76,8 @@ dependencies:
   date_time_picker: ^2.1.0
   geocoding: ^2.0.1
   location: ^4.3.0
-  camera: ^0.9.4+5
-  image_picker: ^0.8.4+4
+  camera: ^0.9.4+7
+  image_picker: ^0.8.4+5
   share_plus: ^3.0.4
 
 
